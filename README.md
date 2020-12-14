@@ -1,4 +1,5 @@
 # autovpn
+# fork project
 
 I wrote this a long time ago and I do not use or maintain this script any more.
 Using this will very likely cause permanent nuclear winter everywhere, so just
