@@ -1,6 +1,5 @@
 # autovpn
 
-**THIS PROJECT IS UNMAINTAINED.**  
 I wrote this a long time ago and I do not use or maintain this script any more.
 Using this will very likely cause permanent nuclear winter everywhere, so just
 look for something better, alright? I'll likely delete the project soon so that
@@ -15,7 +14,7 @@ from [VPN Gate](http://www.vpngate.net/en/).
 First clone the repo and `cd` into the directory:
 
 ```bash
-$ git clone https://github.com/adtac/autovpn
+$ git clone https://github.com/scry3r/autovpn.git
 $ cd autovpn
 ```
 
